@@ -10,7 +10,7 @@ import Vector from './classes/Vector.js';
     const balls = [];
     const mouse = new Vector($canvas.width / 2, $canvas.height / 2);
 
-    console.log("Log check")
+    console.log("Log check part 2")
     
 
     const handleMouseMove = event => {
